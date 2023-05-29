@@ -17,9 +17,10 @@ Using the np.linalg.eig(), we get two results (first is eigenvalue and second is
 
 Step 4:
 End the program
+```
 ## NAME : DEVADARSHAN A S
 ## REG NO : 212222110007
-
+```
 ## Program:
 ```
 import numpy as np
