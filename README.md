@@ -13,10 +13,11 @@ using array function convert the equation into matrix form .
  Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix. 
 ## Program:
 ```
-#Program to find the eigen values and eigen vectors.
-#Developed by: DEVADARSHAN A S
-#RegisterNumber:212222110007
-
+Program to find the eigen values and eigen vectors.
+Developed by: DEVADARSHAN A S
+RegisterNumber:212222110007
+```
+```
 import numpy as np
 a = np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 values,vectors = np.linalg.eig(a)
